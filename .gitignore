@@ -1,0 +1,18 @@
+# Entorno
+.env
+.venv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Base de datos
+*.db
+
+# Pytest
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
